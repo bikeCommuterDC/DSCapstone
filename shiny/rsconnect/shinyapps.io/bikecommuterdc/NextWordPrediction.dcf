@@ -1,0 +1,9 @@
+name: NextWordPrediction
+account: bikecommuterdc
+server: shinyapps.io
+appId: 106598
+bundleId: 471731
+url: https://bikecommuterdc.shinyapps.io/NextWordPrediction/
+when: 1465091163.18134
+asMultiple: FALSE
+asStatic: FALSE
